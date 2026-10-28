@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Wenodo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://wenodo.com/
+Wenodo provides comprehensive hospitality accounting, payroll, and workforce management solutions. Their digital platform offers intelligent finance functions, managed payroll, consulting, and tools like Staflexx and Trakn to streamline operations for hotels, restaurants, and F&B businesses. Wenodo aims to transform hospitality finance through automation, paperless processes, and integrated digital tools, helping clients improve efficiency, accuracy, and strategic insight.
+
+**Areas:** Hospitality · Accounting · Payroll · Workforce · DigitalTransformation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.wenodo.com/)
+- [Blog](https://www.wenodo.com/blog.html)
+- [Privacy policy](https://www.wenodo.com/privacy-policy.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/wenodo/](https://apis.io/providers/wenodo/).
